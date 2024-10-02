@@ -1,5 +1,7 @@
 # LoL analytics website
 
+![width:500px](docs/../docs/assets/concept.png)
+
 ## Setup
 
 Create a virtual environment, activate and install the requirements:
