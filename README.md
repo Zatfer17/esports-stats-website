@@ -2,6 +2,14 @@
 
 ## Setup
 
+Create a virtual environment, activate and install the requirements:
+
+```
+python -m venv .venv
+. .venv/bin/activate
+pip install -r requirements.txt
+```
+
 Setup the local sqlite db by running:
 
 ```

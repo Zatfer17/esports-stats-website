@@ -2,24 +2,7 @@
 marp: true
 ---
 
-# LoL analytics with Streamlit
-
-
-
----
-
-# A step back: MOBAs
-
-From Wikipedia:
-> Multiplayer online battle arena (MOBA) is a subgenre of strategy video games in which two teams of players compete against each other on a predefined battlefield. Each player controls a single character with a set of distinctive abilities that improve over the course of a game and which contribute to the team's overall strategy. The typical objective is for each team to destroy their opponents' main structure, located at the opposite corner of the battlefield.
-
----
-
-![width:500px](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_of_MOBA.svg/1920px-Map_of_MOBA.svg.png)
-
----
-
-# Another step back: Moneyball
+# Soccermatics
 
 From Wikipedia:
 > In association football, expected goals (xG) is a performance metric used to evaluate team and player performances. It can be used to represent the probability of a scoring opportunity that may result in a goal.
@@ -41,3 +24,18 @@ From Wikipedia:
   <img src="https://statsbomb.com/wp-content/uploads/2022/02/Nabil-Fekir-Ligue-1-2017_2018-1.png" width="700" />
   <img src="assets/fbref.png" width="400" /> 
 </p>
+
+---
+
+# MOBAs
+
+From Wikipedia:
+> Multiplayer online battle arena (MOBA) is a subgenre of strategy video games in which two teams of players compete against each other on a predefined battlefield. Each player controls a single character with a set of distinctive abilities that improve over the course of a game and which contribute to the team's overall strategy. The typical objective is for each team to destroy their opponents' main structure, located at the opposite corner of the battlefield.
+
+---
+
+![width:500px](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_of_MOBA.svg/1920px-Map_of_MOBA.svg.png)
+
+---
+
+# LoL analytics with Streamlit
