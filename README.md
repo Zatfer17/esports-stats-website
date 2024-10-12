@@ -2,7 +2,7 @@
 
 ![width:500px](docs/../docs/assets/concept.png)
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://pbs.twimg.com/profile_images/1774796175448711168/AyVH6lcX_400x400.jpg))]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=8ow-0vQya0I))
+[![Watch the video](https://pbs.twimg.com/profile_images/1774796175448711168/AyVH6lcX_400x400.jpg)](https://www.youtube.com/watch?v=8ow-0vQya0I)
 
 ## Setup
 
