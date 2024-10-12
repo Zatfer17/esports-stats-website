@@ -2,7 +2,7 @@
 
 ![width:500px](docs/../docs/assets/concept.png)
 
-![Watch the demo](https://www.youtube.com/watch?v=8ow-0vQya0I)
+[Watch the demo](https://www.youtube.com/watch?v=8ow-0vQya0I)
 
 ## Setup
 
