@@ -6,7 +6,5 @@ streamlit
 streamlit_extras
 streamlit-ace
 plotly
-streamlit_authenticator
-notion_df
 scipy
 mplsoccer

@@ -32,7 +32,8 @@ def plot_radar_comparison(left, right, reference, player_left, league_left, team
 
     # add credits
     CREDIT_1 = "data: Riot Games"
+    CREDIT_2 = "@zatfer17"
 
-    fig.text(0.99, 0.005, f"{CREDIT_1}\n", size=20, fontproperties=font.prop, color="#28344e", ha="right")
+    fig.text(0.99, 0.005, f"{CREDIT_1}\n{CREDIT_2}", size=20, fontproperties=font.prop, color="#28344e", ha="right")
 
     return fig
